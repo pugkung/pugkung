@@ -1,16 +1,17 @@
-### Hi there 👋
+# Tanapol Rattanpichetkul (pugkung) 🇹🇭
 
-<!--
-**pugkung/pugkung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer in Thailand. My GitHub repos is mostly my side-projects and might be updated from time to time.
 
-Here are some ideas to get you started:
+### Contacts
+ - 📧 [E-mail](mailto:tanapol.rattanapichetkul@gmail.com)
+ - 💼 [LinkedIn](https://www.linkedin.com/in/tanapol-rattanapichetkul/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skillsets
+ - **Primary** - (actively using)
+	 - ☁️ Amazon Web Services
+	 - ⚙️ Jenkins
+	 - ☕ Java / Spring
+	 - 🐍 Python
+ - **Secondary** - (experienced, or occasionally utilized)
+	 - 🎮 Unity3D (C#)
+	 - 🌐 Angular
